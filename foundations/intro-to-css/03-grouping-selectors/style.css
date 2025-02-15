@@ -1,0 +1,13 @@
+.option-1 {
+    background-color: hwb(0 0% 100%);
+    color: #ffffff;
+}
+
+.option-2 {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.option-1, .option-2 {
+    font-size: 28px;
+    font-family: Helvatica, Times New Roman, sans-serif;
+}
